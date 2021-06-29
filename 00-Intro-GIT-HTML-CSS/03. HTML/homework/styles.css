@@ -1,0 +1,39 @@
+
+h1 {
+    color:aqua;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: cadetblue;
+    padding: 50px;
+    border: cornflowerblue 25px solid;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+body {
+    background-image: url('https://educacion.ufm.edu/wp-content/uploads/2014/01/Georges_Seurat_031.jpg');
+}
+
+.centrando{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+}
